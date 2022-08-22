@@ -99,9 +99,10 @@ li {
     font-weight: 700;
     font-size: 22px;
     line-height: 26px;
-    color: #3A3838;
+    color:blue;
     padding: 40px 0;
     text-align: center;
+    text-transform: uppercase;
 }
 .conter__2 {
     margin-bottom: 50px;
